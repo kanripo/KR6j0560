@@ -1,0 +1,28 @@
+#-*- mode: mandoku-view; -*-
+#+DATE: 2015-08-30 20:34:47.796252
+#+TITLE: 佛說呪小兒經
+#+PROPERTY: CBETA_ID T21n1329
+#+PROPERTY: ID KR6j0560
+#+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1329
+#+PROPERTY: VOL 21
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS CBETA
+#+PROPERTY: LASTPB <pb:KR6j0560_T_000-0491b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6j0560_T_001-0491b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: JUAN 1
+¶
+¶
+No.1329¶
+
+ 佛說呪小兒經¶
+¶
+
+羅那多羅　摩羅提離　耽波羅提利　吼樓¶
+壽　無樓壽　聞闍　輂叉輂差
+
+南無佛南
+<pb:KR6j0560_T_001-0491c>¶
+無法南無比丘僧南無過去七佛南無諸佛南¶
+無諸佛弟子　令我所呪即從如願。若小兒¶
+頭痛腹痛。當說七過即愈。¶
+佛說呪小兒經
