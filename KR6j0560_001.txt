@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:48.257066
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:28
 #+TITLE: 佛說呪小兒經
 #+PROPERTY: CBETA_ID T21n1329
 #+PROPERTY: ID KR6j0560
